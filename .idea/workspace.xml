@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10ddf9d6-cbcc-4eab-a105-bcdc32ff6d17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/page1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/page2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/page3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AsyncComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +11,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +62,9 @@
       <updated>1593202023940</updated>
       <workItem from="1593202026792" duration="107000" />
       <workItem from="1593202135113" duration="41000" />
-      <workItem from="1593202774702" duration="4224000" />
+      <workItem from="1593202774702" duration="4851000" />
+      <workItem from="1593256142398" duration="2207000" />
+      <workItem from="1593279186082" duration="3590000" />
     </task>
     <servers />
   </component>
